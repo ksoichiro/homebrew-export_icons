@@ -1,5 +1,7 @@
 # Homebrew-export_icons
 
+[![Build Status](https://travis-ci.org/ksoichiro/homebrew-export_icons.svg)](https://travis-ci.org/ksoichiro/homebrew-export_icons)
+
 A Homebrew formula for [ksoichiro/export_icons](https://github.com/ksoichiro/export_icons).
 
 ## Install
