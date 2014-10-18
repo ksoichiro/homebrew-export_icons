@@ -13,3 +13,10 @@ Then, execute following commands.
 $ brew tap ksoichiro/export_icons
 $ brew install export_icons
 ```
+
+## Upgrade
+
+```sh
+$ brew update
+$ brew upgrade export_icons
+```
